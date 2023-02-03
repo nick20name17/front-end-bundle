@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 18,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.validate": [
+    "css",
+    "scss",
+  ]
+}
